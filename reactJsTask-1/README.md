@@ -1,1 +1,1 @@
-//çözüldü
+//git kullanımı öğreniyorum 
