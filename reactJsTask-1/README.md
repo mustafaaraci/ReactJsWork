@@ -1,1 +1,2 @@
-//git kullanımı öğreniyorum 
+//git kullanımı öğreniyorum
+//deneme yapıyorum yine
