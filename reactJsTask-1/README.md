@@ -1,3 +1,1 @@
-# React + Vite
-
-//git kullanımını öğreniyorum
+//çözüldü
